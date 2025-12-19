@@ -9,7 +9,7 @@ format:
   html:
     df-print: kable
   pdf: default
-  # docx: default
+  docx: default
   jats: default
 
 execute:
